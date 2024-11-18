@@ -9,12 +9,11 @@
     <remote name="tejas101k" fetch="https://gitlab.com/tejas101k" clone-depth="1" />
 
     <!-- Removals -->
-    <remove-project name="android_device_mediatek_sepolicy_vndr" />
 
     <!-- Repos -->
     <!-- Device -->
     <project path="device/mediatek/sepolicy_vndr" name="android_device_mediatek_sepolicy_vndr" remote="ArrowOS" revision="arrow-13.0" />
-    <project path="device/realme/RMX1941" name="android_device_realme_RMX1941" remote="imnathanzero" revision="arrow-13" />
+    <project path="device/realme/RMX1941" name="android_device_realme_RMX1941" remote="imnathanzero" revision="void-13" />
 
     <!-- Device - Common -->
 
